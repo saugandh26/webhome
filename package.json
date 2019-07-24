@@ -1,0 +1,17 @@
+{
+  "name": "webhome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     
+      "deploy" : "gh-phages  -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://saugandh26.github.io/webhome",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
